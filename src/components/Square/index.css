@@ -1,0 +1,8 @@
+.square{
+    min-width: 50px;
+    min-height: 50px;
+    background: none;
+    background-color: none;
+    border: 1px black solid;
+    
+}
